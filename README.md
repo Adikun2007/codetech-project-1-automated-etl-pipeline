@@ -106,9 +106,9 @@ codetech-project-1-automated-etl-pipeline/
 
 Completed so far:
 
-Exploratory Data Analysis (EDA)
-Manual train-test splitting
-Stratified train-test splitting
+- Exploratory Data Analysis (EDA)
+- Manual train-test splitting
+- Stratified train-test splitting
 
 Status: In Progress 🚧
 
@@ -116,6 +116,6 @@ Status: In Progress 🚧
 
 ## 👨‍💻 Author
 
-Aditya Cha
+Aditya Chaudhary
 B.Tech Computer Science Engineering Student
 Data Science and Python Enthusiast
