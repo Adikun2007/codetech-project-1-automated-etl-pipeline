@@ -116,6 +116,8 @@ Status: In Progress 🚧
 
 ## 👨‍💻 Author
 
-Aditya Chaudhary
-B.Tech Computer Science Engineering Student
-Data Science and Python Enthusiast
+Aditya Chaudhary  
+B.Tech Computer Science Engineering Student  
+Data Science and Python Enthusiast  
+
+---
