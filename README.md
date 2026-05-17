@@ -142,3 +142,13 @@ Starting from raw CSV data, the pipeline automatically:
 - Produces a machine-learning-ready dataset
 
 The final output is a clean and fully transformed dataset ready for downstream analysis and predictive modeling.
+
+---
+
+## 👨‍💻 Author
+
+Aditya Chaudhary<br>  
+B.Tech Computer Science Engineering Student<br>  
+Data Science and Python Enthusiast  
+
+---
