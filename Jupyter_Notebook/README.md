@@ -114,8 +114,10 @@ By working through these notebooks step by step, I developed a strong understand
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Aditya Chaudhary
-B.Tech Computer Science Engineering Student
+Aditya Chaudhary<br>
+B.Tech Computer Science Engineering Student<br>
 Data Science and Python Enthusiast
+
+---
